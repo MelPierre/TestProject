@@ -1,0 +1,8 @@
+$ mkdir ~/Hello-World
+$ cd ~/Hello-World
+$ git ini
+$ touch ReadMe
+$ git add ReadMe
+$ git commit -m 'first commit'
+$ git remote add origin https://github.com/MelPierre/Hello-World.git
+$ git push origin master
